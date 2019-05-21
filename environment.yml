@@ -5,6 +5,7 @@ dependencies:
 - pandas
 - flask
 - scikit-learn
+- matplotlib
 # - pip:
 #   - keras>=2.2.2
 #   - https://github.com/lakshayg/tensorflow-build/releases/download/tf1.9.0-ubuntu16.04-py36/tensorflow-1.9.0-cp36-cp36m-linux_x86_64.whl
