@@ -39,6 +39,6 @@ You can train and save a model using a jupyter notebook (or other code) and then
 ### Run Docker Container and Mount Volume
 
 -v mounts a volume with code (or saved model files) on the docker container  
- The format is `<directory on your local>:<directory in your container>``
+ The format is `<directory on your local>:<directory in your container>`
 
 `docker run -p 8889:5000 -v /home/becky/workshop_model:/app/model --rm --name may21 python_workshop:local`
